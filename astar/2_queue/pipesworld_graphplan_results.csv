@@ -1,0 +1,7 @@
+Problem File,Number of Steps,States Visited,
+pipesworld_graphplan/p01-net1-b6-g2-t50.pl,5,6,0.104310054
+pipesworld_graphplan/p03-net1-b8-g3-t80.pl,8,463,175.940848004
+pipesworld_graphplan/p05-net1-b10-g4-t50.pl,9,290,14.990166339
+pipesworld_graphplan/p06-net1-b10-g6-t50.pl,11,831,46.623773942
+pipesworld_graphplan/p07-net1-b12-g5-t80.pl,9,33,112.706879989
+pipesworld_graphplan/p08-net1-b12-g7-t80.pl,12,43,87.340748116
